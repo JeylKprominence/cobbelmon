@@ -1,0 +1,17 @@
+{
+	id: "7d6053e3-ad35-3e64-9560-931cbc77a1a5"
+	type: "player"
+	player_name: "JeylK"
+	ranks: {
+		7d6053e3-ad35-3e64-9560-931cbc77a1a5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JeylK"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6B59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
