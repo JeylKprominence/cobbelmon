@@ -511,6 +511,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:zombie": "2025-01-02 03:54:49 +0000",
       "minecraft:drowned": "2025-01-02 03:18:37 +0000"
     },
     "done": false
@@ -2117,6 +2118,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-01-02 03:52:39 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/greater_experience_gem": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -2668,6 +2675,7 @@
       "minecraft:taiga": "2025-01-02 03:08:48 +0000",
       "minecraft:frozen_river": "2025-01-02 03:18:02 +0000",
       "minecraft:river": "2025-01-02 03:16:03 +0000",
+      "minecraft:grove": "2025-01-02 03:54:13 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-02 03:01:35 +0000"
     },
     "done": false
@@ -2746,7 +2754,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-01-02 03:20:00 +0000"
+      "apple": "2025-01-02 03:20:00 +0000",
+      "bread": "2025-01-02 03:48:01 +0000"
     },
     "done": false
   },

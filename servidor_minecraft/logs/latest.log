@@ -2946,3 +2946,25 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 03:47:21.565] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
 [02Jan2025 03:47:21.567] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
 [02Jan2025 03:47:30.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/10635, l='ServerLevel[world]', x=577.78, y=82.57, z=-302.38] died: Honeyed Archer suffocated in a wall
+[02Jan2025 03:54:04.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Jan2025 03:54:21.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[02Jan2025 03:54:39.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+[02Jan2025 03:54:58.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4676ms or 93 ticks behind
+[02Jan2025 03:55:17.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3697ms or 73 ticks behind
+[02Jan2025 03:55:35.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2837ms or 56 ticks behind
+[02Jan2025 03:55:55.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5318ms or 106 ticks behind
+[02Jan2025 03:56:15.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4766ms or 95 ticks behind
+[02Jan2025 03:56:33.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3299ms or 65 ticks behind
+[02Jan2025 03:56:52.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[02Jan2025 03:57:13.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5837ms or 116 ticks behind
+[02Jan2025 03:57:23.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Far From Perfect]
+[02Jan2025 03:57:38.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Diamonds!]
+[02Jan2025 03:57:39.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11208ms or 224 ticks behind
+[02Jan2025 03:57:55.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Mine? Mine? Mine?]
+[02Jan2025 03:58:00.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6291ms or 125 ticks behind
+[02Jan2025 03:58:04.956] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[02Jan2025 03:58:04.966] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[02Jan2025 03:58:04.969] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[02Jan2025 03:58:04.972] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[02Jan2025 03:58:23.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7802ms or 156 ticks behind
+[02Jan2025 03:58:41.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
