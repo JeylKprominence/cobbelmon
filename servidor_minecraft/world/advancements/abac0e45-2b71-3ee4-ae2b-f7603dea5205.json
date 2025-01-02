@@ -2731,6 +2731,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-02 04:45:42 +0000",
+      "minecraft:cave_spider": "2025-01-02 04:55:41 +0000",
       "minecraft:zombie": "2025-01-02 03:54:49 +0000",
       "minecraft:drowned": "2025-01-02 03:18:37 +0000"
     },
@@ -3169,6 +3171,12 @@
       "parry_0": "2025-01-02 04:33:25 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_4": "2025-01-02 04:52:42 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {

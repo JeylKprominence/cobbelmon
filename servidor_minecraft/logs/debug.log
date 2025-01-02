@@ -12384,3 +12384,21 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 04:49:37.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [02Jan2025 04:49:56.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3290ms or 65 ticks behind
 [02Jan2025 04:50:02.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brandauwu> 1633, 63,1001
+[02Jan2025 04:50:19.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7802ms or 156 ticks behind
+[02Jan2025 04:50:55.179] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=11}
+[02Jan2025 04:51:01.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 04:51:02.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 04:51:32.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[02Jan2025 04:53:02.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Cover Me with Diamonds]
+[02Jan2025 04:56:03.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 04:56:03.876] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 04:56:13.730] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Jan2025 04:56:43.076] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Jan2025 04:57:05.547] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Jan2025 04:57:13.939] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Jan2025 04:57:15.697] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Jan2025 04:57:19.270] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Jan2025 04:57:39.400] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Jan2025 04:58:37.652] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[02Jan2025 04:59:41.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu was slain by Wendigo
+[02Jan2025 05:00:22.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has reached the goal [Senior Summoner]

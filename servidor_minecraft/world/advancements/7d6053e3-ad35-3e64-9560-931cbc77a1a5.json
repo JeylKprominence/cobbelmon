@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-02 04:55:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/rotating_turret_to_basic_spell_turret": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -233,6 +239,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-01-02 04:55:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 03:09:50 +0000"
@@ -371,6 +383,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 04:55:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-02 04:16:37 +0000"
@@ -440,6 +458,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-01-02 03:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-02 04:53:02 +0000"
     },
     "done": true
   },
@@ -589,7 +613,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-02 04:47:03 +0000",
       "minecraft:vindicator": "2025-01-02 04:41:25 +0000",
+      "minecraft:spider": "2025-01-02 04:48:37 +0000",
       "minecraft:cave_spider": "2025-01-02 03:30:25 +0000",
       "minecraft:zombie": "2025-01-02 03:29:14 +0000"
     },
@@ -1192,6 +1218,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-01-02 03:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-02 04:55:13 +0000"
     },
     "done": true
   },
@@ -2011,6 +2043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-02 04:55:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -2134,6 +2172,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-02 03:51:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-02 04:55:13 +0000"
     },
     "done": true
   },
@@ -3133,6 +3177,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-01-02 04:55:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -3239,6 +3289,7 @@
     "criteria": {
       "minecraft:taiga": "2025-01-02 03:08:17 +0000",
       "minecraft:frozen_river": "2025-01-02 03:18:40 +0000",
+      "minecraft:birch_forest": "2025-01-02 04:47:17 +0000",
       "minecraft:beach": "2025-01-02 03:54:43 +0000",
       "minecraft:river": "2025-01-02 03:18:42 +0000",
       "minecraft:snowy_plains": "2025-01-02 03:54:21 +0000",
