@@ -12294,3 +12294,93 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 04:39:10.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3394ms or 67 ticks behind
 [02Jan2025 04:39:28.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3173ms or 63 ticks behind
 [02Jan2025 04:39:46.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3315ms or 66 ticks behind
+[02Jan2025 04:40:07.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6220ms or 124 ticks behind
+[02Jan2025 04:40:11.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 04:40:11.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 04:40:11.678] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[02Jan2025 04:40:11.681] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:horned_statue/no
+[02Jan2025 04:40:26.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3808ms or 76 ticks behind
+[02Jan2025 04:40:28.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JeylK moved wrongly!
+[02Jan2025 04:40:31.402] [Worker-Main-39/DEBUG] [ModernFix/]: Structure undead_revamp2:irontomb is being run through DFU (hash c3455c0f7f3a45d2a678a6c3913daf30cb9b499ee60333fc77c5ca5ae0517efe), this will cause launch time delays
+[02Jan2025 04:40:34.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JeylK moved wrongly!
+[02Jan2025 04:40:44.799] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_5
+[02Jan2025 04:40:48.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6699ms or 133 ticks behind
+[02Jan2025 04:41:08.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5317ms or 106 ticks behind
+[02Jan2025 04:41:08.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Abilities -Enemy Step-           ]
+[02Jan2025 04:41:29.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5671ms or 113 ticks behind
+[02Jan2025 04:41:46.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2894ms or 57 ticks behind
+[02Jan2025 04:41:47.670] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[02Jan2025 04:41:47.917] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:shrine
+[02Jan2025 04:42:06.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4533ms or 90 ticks behind
+[02Jan2025 04:42:06.642] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:cloggerplacetrue
+[02Jan2025 04:42:09.046] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[02Jan2025 04:42:14.084] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_none
+[02Jan2025 04:42:14.087] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 04:42:14.089] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 04:42:14.090] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 04:42:14.090] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Jan2025 04:42:23.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[02Jan2025 04:42:36.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JeylK: Teleported JeylK to Brandauwu]
+[02Jan2025 04:43:13.613] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_defender
+[02Jan2025 04:43:13.769] [Worker-Main-39/DEBUG] [ModernFix/]: Structure ars_nouveau:wilden_den_top_hunter is being run through DFU (hash 4df74b3332b0b0a41737d16b61c2574da673b4cf25cf2db8459397ec3c03fe95), this will cause launch time delays
+[02Jan2025 04:43:14.352] [Worker-Main-39/DEBUG] [ModernFix/]: Structure ars_nouveau:wilden_den_top_stalker is being run through DFU (hash d0dd3a662f93929e4a7387e78891f1d2bd11c6491c0fb4b7eaa7b3caa9888ae3), this will cause launch time delays
+[02Jan2025 04:43:16.734] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[02Jan2025 04:44:18.060] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_6
+[02Jan2025 04:44:19.606] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 04:44:19.609] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 04:44:19.611] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 04:44:19.612] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Jan2025 04:44:19.612] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Jan2025 04:45:03.069] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Jan2025 04:45:16.653] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/tent_2
+[02Jan2025 04:45:16.653] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/animal_pen
+[02Jan2025 04:45:16.654] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/seats_1
+[02Jan2025 04:45:16.654] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/seats_2
+[02Jan2025 04:45:16.654] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/tent_1
+[02Jan2025 04:45:16.655] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/hayblocks
+[02Jan2025 04:45:34.705] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 04:45:34.706] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 04:45:34.707] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Jan2025 04:45:38.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Not Today, Thank You]
+[02Jan2025 04:45:40.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 04:45:40.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 04:45:43.597] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 04:45:43.597] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 04:45:43.597] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Jan2025 04:46:53.584] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[02Jan2025 04:47:00.958] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:tomb1
+[02Jan2025 04:47:07.246] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[02Jan2025 04:47:52.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[02Jan2025 04:48:10.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[02Jan2025 04:48:22.483] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[02Jan2025 04:48:22.489] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_tee_1
+[02Jan2025 04:48:22.490] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_straight_trapped
+[02Jan2025 04:48:22.492] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_turn_1
+[02Jan2025 04:48:22.493] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_1
+[02Jan2025 04:48:22.494] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_2
+[02Jan2025 04:48:22.496] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room_origin_arch
+[02Jan2025 04:48:22.498] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/hallway/hallway_spiral_stairs
+[02Jan2025 04:48:22.501] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dropdown_hallway
+[02Jan2025 04:48:22.503] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/hallway_connector
+[02Jan2025 04:48:22.508] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/balcony
+[02Jan2025 04:48:22.509] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/end_room_wall
+[02Jan2025 04:48:22.513] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/armorstand
+[02Jan2025 04:48:22.515] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_3
+[02Jan2025 04:48:22.518] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_1
+[02Jan2025 04:48:22.520] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/reception
+[02Jan2025 04:48:22.523] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_2
+[02Jan2025 04:48:22.525] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/wall_crypt
+[02Jan2025 04:48:22.531] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/dormitories_1
+[02Jan2025 04:48:22.534] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_storage_2
+[02Jan2025 04:48:22.541] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/ravager_prison
+[02Jan2025 04:48:22.543] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_2
+[02Jan2025 04:48:22.545] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/boiler
+[02Jan2025 04:48:22.546] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/small_spawner_1
+[02Jan2025 04:48:22.547] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/trap_jail
+[02Jan2025 04:48:22.549] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/study_platform
+[02Jan2025 04:48:22.551] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/room/crypt_1
+[02Jan2025 04:48:53.015] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[02Jan2025 04:49:10.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2478ms or 49 ticks behind
+[02Jan2025 04:49:37.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[02Jan2025 04:49:56.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3290ms or 65 ticks behind
+[02Jan2025 04:50:02.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Brandauwu> 1633, 63,1001

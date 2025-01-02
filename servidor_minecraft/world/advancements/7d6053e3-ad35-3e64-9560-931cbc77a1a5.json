@@ -589,6 +589,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:vindicator": "2025-01-02 04:41:25 +0000",
       "minecraft:cave_spider": "2025-01-02 03:30:25 +0000",
       "minecraft:zombie": "2025-01-02 03:29:14 +0000"
     },
@@ -681,6 +682,12 @@
   "ars_nouveau:recipes/decorations/sourcestone_21": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-01-02 04:44:53 +0000"
     },
     "done": true
   },
@@ -1062,6 +1069,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-01-02 04:44:52 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -1107,6 +1120,12 @@
   "decorative_blocks:recipes/building_blocks/lattice": {
     "criteria": {
       "has_stick": "2025-01-02 03:03:55 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 04:44:53 +0000"
     },
     "done": true
   },
@@ -1506,6 +1525,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-02 04:44:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-01-02 03:59:19 +0000"
@@ -1581,6 +1606,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 04:44:53 +0000"
     },
     "done": true
   },
@@ -2256,6 +2287,12 @@
     },
     "done": true
   },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2025-01-02 04:41:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/potion_jar_empty": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -2394,6 +2431,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-01-02 04:44:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/blue_archwood_wood": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -2475,6 +2518,12 @@
   "slashblade:arts/aerial_a": {
     "criteria": {
       "customtrigger": "2025-01-02 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 04:44:53 +0000"
     },
     "done": true
   },
@@ -2862,6 +2911,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 04:44:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-01-02 04:37:58 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -3036,6 +3097,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-02 04:36:50 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/building_blocks/db/ars_nouveau/archwood_palisade": {
     "criteria": {
       "has_planks": "2025-01-02 03:35:17 +0000"
@@ -3090,6 +3157,12 @@
     },
     "done": true
   },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-01-02 04:44:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-01-02 03:26:57 +0000"
@@ -3135,6 +3208,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2025-01-02 03:10:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-02 04:44:52 +0000"
     },
     "done": true
   },
@@ -3423,6 +3502,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-01-02 04:36:50 +0000"
     },
     "done": true
   },

@@ -1738,6 +1738,7 @@
       "minecraft:taiga": "2025-01-02 03:08:48 +0000",
       "minecraft:frozen_river": "2025-01-02 03:18:02 +0000",
       "minecraft:river": "2025-01-02 03:16:03 +0000",
+      "minecraft:snowy_plains": "2025-01-02 04:36:28 +0000",
       "minecraft:snowy_taiga": "2025-01-02 04:03:32 +0000",
       "minecraft:grove": "2025-01-02 03:54:13 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-02 03:01:35 +0000"
@@ -3154,6 +3155,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-01-02 04:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-02 04:45:38 +0000"
     },
     "done": true
   },
