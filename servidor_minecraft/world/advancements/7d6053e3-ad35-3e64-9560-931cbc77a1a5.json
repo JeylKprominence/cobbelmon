@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-02 04:16:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-02 03:03:55 +0000"
@@ -92,6 +98,12 @@
   "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
     "criteria": {
       "has_blue_sheet": "2025-01-02 03:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-02 04:08:28 +0000"
     },
     "done": true
   },
@@ -182,6 +194,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-02 03:25:10 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/quiver": {
+    "criteria": {
+      "has_leather": "2025-01-02 04:16:37 +0000"
     },
     "done": true
   },
@@ -308,6 +326,12 @@
   "ars_nouveau:recipes/building_blocks/stripped_green_archwood_wood": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-02 04:16:37 +0000"
     },
     "done": true
   },
@@ -708,6 +732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-02 04:16:37 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/spell_prism": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -948,6 +978,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-02 04:16:37 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/ars_nouveau/archwood_corner_trim": {
     "criteria": {
       "has_planks": "2025-01-02 03:35:17 +0000"
@@ -1098,6 +1134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-02 04:16:37 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/chain": {
     "criteria": {
       "has_ingot": "2025-01-02 03:09:50 +0000"
@@ -1181,6 +1223,12 @@
       "has_journal": "2025-01-02 03:01:53 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-01-02 04:10:59 +0000"
+    },
+    "done": false
   },
   "apotheosis:affix/gem": {
     "criteria": {
@@ -1401,6 +1449,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-02 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-02 04:16:37 +0000"
     },
     "done": true
   },
@@ -1716,6 +1770,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-02 04:16:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-01-02 03:10:37 +0000"
@@ -2021,6 +2081,18 @@
       "has_wood": "2025-01-02 03:09:50 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-01-02 04:11:05 +0000",
+      "trickor_treat_2": "2025-01-02 04:13:50 +0000",
+      "trickor_treat_3": "2025-01-02 04:14:19 +0000",
+      "trickor_treat_4": "2025-01-02 04:14:25 +0000",
+      "trickor_treat_5": "2025-01-02 04:14:20 +0000",
+      "trickor_treat_6": "2025-01-02 04:14:27 +0000",
+      "trickor_treat_7": "2025-01-02 04:14:33 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
@@ -2622,6 +2694,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-01-02 04:10:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sky_block": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -2811,6 +2889,12 @@
   "ars_nouveau:recipes/misc/sourcestone_sconce": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-02 04:16:37 +0000"
     },
     "done": true
   },

@@ -11293,3 +11293,72 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 04:08:35.913] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
 [02Jan2025 04:08:49.243] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:tomb1
 [02Jan2025 04:08:59.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[02Jan2025 04:09:20.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6326ms or 126 ticks behind
+[02Jan2025 04:09:49.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Blade Arts -Combo A-              ]
+[02Jan2025 04:09:53.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu was doomed to fall
+[02Jan2025 04:10:17.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02Jan2025 04:10:35.665] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3086ms or 61 ticks behind
+[02Jan2025 04:10:53.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has reached the goal [Pumpkin Sir]
+[02Jan2025 04:10:53.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2421ms or 48 ticks behind
+[02Jan2025 04:11:33.458] [Worker-Main-6/DEBUG] [ModernFix/]: Structure born_in_chaos_v1:lookout_tower is being run through DFU (hash 69bd5f46eaa56de8fcad01102a19c9907f355ff2926fe467684f07d855c1da43), this will cause launch time delays
+[02Jan2025 04:11:33.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[02Jan2025 04:11:51.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3063ms or 61 ticks behind
+[02Jan2025 04:11:58.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 04:11:58.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 04:12:26.830] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_3
+[02Jan2025 04:12:30.714] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_farmer
+[02Jan2025 04:12:30.724] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 04:12:30.725] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 04:12:30.726] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 04:12:30.726] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Jan2025 04:12:30.727] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Jan2025 04:12:33.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Jan2025 04:13:04.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02Jan2025 04:13:06.108] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:cloggerplacetrue
+[02Jan2025 04:13:07.017] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_4
+[02Jan2025 04:13:21.451] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[02Jan2025 04:13:23.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4115ms or 82 ticks behind
+[02Jan2025 04:14:14.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JeylK> 886 72 -772
+[02Jan2025 04:15:53.799] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[02Jan2025 04:15:55.340] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[02Jan2025 04:16:01.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[02Jan2025 04:16:03.809] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Jan2025 04:16:05.268] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[02Jan2025 04:16:05.451] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:floating_island_1
+[02Jan2025 04:16:10.008] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[02Jan2025 04:16:14.975] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_2
+[02Jan2025 04:16:21.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4906ms or 98 ticks behind
+[02Jan2025 04:16:22.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:statues/statue_1
+[02Jan2025 04:16:22.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:statues/statue_3
+[02Jan2025 04:16:22.499] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:kakariko_village_goddess_statue
+[02Jan2025 04:16:22.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[02Jan2025 04:16:45.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8521ms or 170 ticks behind
+[02Jan2025 04:16:48.239] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[02Jan2025 04:16:48.318] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 04:16:48.322] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 04:16:48.324] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Jan2025 04:16:48.329] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Jan2025 04:16:55.315] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[02Jan2025 04:17:06.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6269ms or 125 ticks behind
+[02Jan2025 04:17:17.588] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_7
+[02Jan2025 04:17:29.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8420ms or 168 ticks behind
+[02Jan2025 04:17:35.258] [Worker-Main-6/DEBUG] [ModernFix/]: Structure ars_nouveau:wilden_den_top_defender is being run through DFU (hash 62ccdcac698f875a727174c258ebb661c6f3ccd9b1301050b979fdf9bb9fb611), this will cause launch time delays
+[02Jan2025 04:17:35.583] [Worker-Main-6/DEBUG] [ModernFix/]: Structure ars_nouveau:wilden_den_bottom is being run through DFU (hash 823a6dcc2333e3a69551a6fba198732f91e0815f635e66a221bed097a9fc96b7), this will cause launch time delays
+[02Jan2025 04:17:39.462] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 04:17:39.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 04:17:48.499] [Worker-Main-39/DEBUG] [ModernFix/]: Structure paraglider:snowy_village_horned_statue is being run through DFU (hash 3993cdc43e481826ab3b4717f4baa738c0329e45bb96e9becc02db2e1e453aed), this will cause launch time delays
+[02Jan2025 04:17:48.588] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:statues/statue_2
+[02Jan2025 04:17:48.589] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:statues/statue_4
+[02Jan2025 04:17:48.591] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of bountiful:village/common/bounty_gazebo
+[02Jan2025 04:17:50.647] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5718ms or 114 ticks behind
+[02Jan2025 04:17:56.626] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/base_2
+[02Jan2025 04:18:02.362] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:campsite/base_1
+[02Jan2025 04:18:04.537] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:shrine
+[02Jan2025 04:18:11.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5636ms or 112 ticks behind
+[02Jan2025 04:18:18.151] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_1
+[02Jan2025 04:18:29.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3731ms or 74 ticks behind
+[02Jan2025 04:18:42.096] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[02Jan2025 04:18:48.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3563ms or 71 ticks behind
+[02Jan2025 04:19:01.487] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[02Jan2025 04:19:07.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3895ms or 77 ticks behind
+[02Jan2025 04:19:08.737] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_5
