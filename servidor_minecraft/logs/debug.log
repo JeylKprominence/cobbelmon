@@ -10553,3 +10553,10 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 03:25:10.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Diamonds!]
 [02Jan2025 03:27:55.964] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:shrine
 [02Jan2025 03:28:14.364] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Jan2025 03:29:13.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Jerky?]
+[02Jan2025 03:29:14.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Monster Hunter]
+[02Jan2025 03:29:45.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 03:29:45.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 03:29:59.656] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[02Jan2025 03:34:45.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 03:34:45.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
