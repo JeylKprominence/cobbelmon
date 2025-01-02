@@ -1735,8 +1735,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-01-02 05:14:56 +0000",
       "minecraft:taiga": "2025-01-02 03:08:48 +0000",
       "minecraft:frozen_river": "2025-01-02 03:18:02 +0000",
+      "minecraft:beach": "2025-01-02 05:16:59 +0000",
       "minecraft:river": "2025-01-02 03:16:03 +0000",
       "minecraft:snowy_plains": "2025-01-02 04:36:28 +0000",
       "minecraft:snowy_taiga": "2025-01-02 04:03:32 +0000",
@@ -3172,15 +3174,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-02 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-01-02 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-02 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-02 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-01-02 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-02 05:19:50 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
       "trickor_treat_4": "2025-01-02 04:52:42 +0000"
     },
     "done": false
   },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-01-02 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-01-02 05:19:50 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-01-02 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-01-02 05:18:31 +0000"
     },
     "done": true
   },
