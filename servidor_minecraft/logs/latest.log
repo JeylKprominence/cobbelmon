@@ -2968,3 +2968,18 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 03:58:04.972] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
 [02Jan2025 03:58:23.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7802ms or 156 ticks behind
 [02Jan2025 03:58:41.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
+[02Jan2025 03:59:05.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9238ms or 184 ticks behind
+[02Jan2025 03:59:31.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Isn't It Iron Pick]
+[02Jan2025 03:59:39.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brandauwu lost connection: Disconnected
+[02Jan2025 03:59:39.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu left the game
+[02Jan2025 04:00:03.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Brandauwu[/127.194.113.45:47047] logged in with entity id 18021 at (701.408965393474, 101.0, -275.30000001192093)
+[02Jan2025 04:00:03.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu joined the game
+[02Jan2025 04:00:03.510] [Server thread/INFO] [Jade/]: Syncing config to Brandauwu (abac0e45-2b71-3ee4-ae2b-f7603dea5205)
+[02Jan2025 04:01:43.514] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Jan2025 04:01:43.517] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[02Jan2025 04:01:44.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02Jan2025 04:02:18.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[02Jan2025 04:03:00.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[02Jan2025 04:06:12.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK was squashed by a falling block whilst fighting Pumpkinhead
+[02Jan2025 04:08:28.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Not Today, Thank You]
+[02Jan2025 04:08:59.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind

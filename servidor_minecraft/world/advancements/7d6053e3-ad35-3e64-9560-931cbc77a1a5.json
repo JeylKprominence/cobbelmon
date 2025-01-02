@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-02 03:59:12 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/upperslash_jump": {
     "criteria": {
       "customtrigger": "2025-01-02 03:40:36 +0000"
@@ -948,6 +954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 03:59:19 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -1365,6 +1377,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 03:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 03:59:19 +0000"
     },
     "done": true
   },
@@ -1932,6 +1950,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 03:59:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-01-02 03:51:17 +0000"
@@ -2112,6 +2136,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-02 03:59:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 03:59:19 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_pressure_plate": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -2157,6 +2193,12 @@
   "ars_nouveau:recipes/misc/sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-02 03:57:55 +0000"
     },
     "done": true
   },
@@ -2940,7 +2982,8 @@
       "minecraft:cold_ocean": "2025-01-02 03:55:15 +0000",
       "minecraft:forest": "2025-01-02 03:55:16 +0000",
       "minecraft:lush_caves": "2025-01-02 03:27:12 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-01-02 03:01:54 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-01-02 03:01:54 +0000",
+      "minecraft:snowy_beach": "2025-01-02 03:57:43 +0000"
     },
     "done": false
   },
@@ -3018,6 +3061,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "porkchop": "2025-01-02 04:04:17 +0000",
       "bread": "2025-01-02 03:11:18 +0000"
     },
     "done": false
@@ -3133,6 +3177,12 @@
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2025-01-02 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-01-02 03:59:12 +0000"
     },
     "done": true
   },
