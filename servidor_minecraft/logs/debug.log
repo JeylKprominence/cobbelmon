@@ -10560,3 +10560,82 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 03:29:59.656] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
 [02Jan2025 03:34:45.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 03:34:45.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 03:39:45.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 03:39:45.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 03:40:36.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Jumping Slash-         ]
+[02Jan2025 03:40:45.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Aerial Cleave-       ]
+[02Jan2025 03:41:58.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Combo C-              ]
+[02Jan2025 03:43:14.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Dark Metallurgy]
+[02Jan2025 03:43:32.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/9840, l='ServerLevel[world]', x=593.76, y=68.25, z=-288.29] died: Honeyed Archer suffocated in a wall
+[02Jan2025 03:43:45.327] [Worker-Main-39/DEBUG] [ModernFix/]: Structure undead_revamp2:bohut_1 is being run through DFU (hash ccfea9642e7a8047997edf13de5aef68702bff88e4fd1dd00964cc6fd33ea130), this will cause launch time delays
+[02Jan2025 03:43:45.537] [Worker-Main-39/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Jan2025 03:43:45.540] [Worker-Main-39/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Jan2025 03:43:58.344] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:large_oak_tree/top
+[02Jan2025 03:44:05.523] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:jungle_temple/jungle_temple
+[02Jan2025 03:44:10.376] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/stairs
+[02Jan2025 03:44:10.706] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/spawner
+[02Jan2025 03:44:10.708] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/bedroom
+[02Jan2025 03:44:10.711] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/intersections/four_way
+[02Jan2025 03:44:10.716] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/intersections/three_way
+[02Jan2025 03:44:11.014] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/large_hall
+[02Jan2025 03:44:11.016] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/dead_end
+[02Jan2025 03:44:11.017] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/small
+[02Jan2025 03:44:11.018] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/broken
+[02Jan2025 03:44:11.065] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/cells
+[02Jan2025 03:44:11.252] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/dead_ends/normal
+[02Jan2025 03:44:13.110] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[02Jan2025 03:44:16.951] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:cloggerplacetrue
+[02Jan2025 03:44:17.326] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[02Jan2025 03:44:18.624] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_1
+[02Jan2025 03:44:21.402] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[02Jan2025 03:44:23.057] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_7
+[02Jan2025 03:44:23.838] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[02Jan2025 03:44:29.590] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:large_logs
+[02Jan2025 03:44:36.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Jan2025 03:44:37.486] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[02Jan2025 03:44:41.996] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[02Jan2025 03:44:42.740] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_6
+[02Jan2025 03:44:43.326] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:slime_cave
+[02Jan2025 03:44:44.163] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:underground_horned_statue
+[02Jan2025 03:44:50.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 03:44:50.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 03:44:56.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[02Jan2025 03:44:57.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[02Jan2025 03:44:57.213] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/lava
+[02Jan2025 03:44:57.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/dungeon
+[02Jan2025 03:44:57.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/large
+[02Jan2025 03:44:57.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/stairs_bars
+[02Jan2025 03:45:02.870] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[02Jan2025 03:45:13.801] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:floating_island_1
+[02Jan2025 03:45:16.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[02Jan2025 03:45:26.421] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[02Jan2025 03:45:36.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4692ms or 93 ticks behind
+[02Jan2025 03:45:45.465] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[02Jan2025 03:45:50.833] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[02Jan2025 03:45:54.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[02Jan2025 03:46:14.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[02Jan2025 03:46:37.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/11331, l='ServerLevel[world]', x=664.70, y=76.00, z=-278.49] died, message: 'Butcher was slain by JeylK'
+[02Jan2025 03:46:54.244] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 03:46:54.246] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 03:46:54.248] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Jan2025 03:46:54.248] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Jan2025 03:47:00.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02Jan2025 03:47:03.094] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[02Jan2025 03:47:03.208] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Jan2025 03:47:10.524] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[02Jan2025 03:47:10.623] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[02Jan2025 03:47:19.805] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[02Jan2025 03:47:21.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5600ms or 112 ticks behind
+[02Jan2025 03:47:21.370] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Jan2025 03:47:21.373] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[02Jan2025 03:47:21.375] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[02Jan2025 03:47:21.377] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[02Jan2025 03:47:21.379] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Jan2025 03:47:21.382] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Jan2025 03:47:21.384] [Worker-Main-39/DEBUG] [ModernFix/]: Structure realmrpg_quests:custom_mobs/villager_none is being run through DFU (hash 11a01e698c1b4d2fd9e8b872fac69f06817f0a9cd4d11cccc7256292a21a53b8), this will cause launch time delays
+[02Jan2025 03:47:21.546] [Worker-Main-39/DEBUG] [ModernFix/]: Structure realmrpg_quests:custom_mobs/villager_farmer is being run through DFU (hash 1e9ac9c74138d42bb61acaad99ae02c542ed43d223f79b848dfb7eeee861eb43), this will cause launch time delays
+[02Jan2025 03:47:21.562] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_butcher
+[02Jan2025 03:47:21.565] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Jan2025 03:47:21.567] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Jan2025 03:47:21.834] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[02Jan2025 03:47:30.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/10635, l='ServerLevel[world]', x=577.78, y=82.57, z=-302.38] died: Honeyed Archer suffocated in a wall

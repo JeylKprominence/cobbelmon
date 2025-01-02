@@ -2917,3 +2917,32 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 03:25:10.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Diamonds!]
 [02Jan2025 03:29:13.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Jerky?]
 [02Jan2025 03:29:14.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Monster Hunter]
+[02Jan2025 03:40:36.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Jumping Slash-         ]
+[02Jan2025 03:40:45.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Aerial Cleave-       ]
+[02Jan2025 03:41:58.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Combo C-              ]
+[02Jan2025 03:43:14.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Dark Metallurgy]
+[02Jan2025 03:43:32.685] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/9840, l='ServerLevel[world]', x=593.76, y=68.25, z=-288.29] died: Honeyed Archer suffocated in a wall
+[02Jan2025 03:43:45.537] [Worker-Main-39/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Jan2025 03:43:45.540] [Worker-Main-39/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Jan2025 03:44:36.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[02Jan2025 03:44:56.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
+[02Jan2025 03:45:16.795] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[02Jan2025 03:45:36.472] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4692ms or 93 ticks behind
+[02Jan2025 03:45:54.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[02Jan2025 03:46:14.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[02Jan2025 03:46:37.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/11331, l='ServerLevel[world]', x=664.70, y=76.00, z=-278.49] died, message: 'Butcher was slain by JeylK'
+[02Jan2025 03:46:54.244] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 03:46:54.246] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 03:46:54.248] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Jan2025 03:46:54.248] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Jan2025 03:47:00.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02Jan2025 03:47:21.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5600ms or 112 ticks behind
+[02Jan2025 03:47:21.370] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Jan2025 03:47:21.373] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[02Jan2025 03:47:21.375] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[02Jan2025 03:47:21.377] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[02Jan2025 03:47:21.379] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Jan2025 03:47:21.382] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[02Jan2025 03:47:21.565] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[02Jan2025 03:47:21.567] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[02Jan2025 03:47:30.915] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/10635, l='ServerLevel[world]', x=577.78, y=82.57, z=-302.38] died: Honeyed Archer suffocated in a wall

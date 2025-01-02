@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "slashblade:arts/upperslash_jump": {
+    "criteria": {
+      "customtrigger": "2025-01-02 03:40:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2025-01-02 03:09:50 +0000"
@@ -467,6 +473,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_nightstand": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/ars_nouveau/archwood_support": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-01-02 03:17:07 +0000"
@@ -594,6 +612,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_drawer": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/volcanic_sourcelink": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -609,6 +633,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-02 03:30:28 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-01-02 03:43:14 +0000"
     },
     "done": true
   },
@@ -723,6 +753,12 @@
   "decorative_blocks:recipes/building_blocks/spruce_palisade": {
     "criteria": {
       "has_log": "2025-01-02 03:03:55 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/ars_nouveau/archwood_seat": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
     },
     "done": true
   },
@@ -852,9 +888,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_corner_trim": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_shelf": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
     },
     "done": true
   },
@@ -873,6 +921,12 @@
   "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/ars_nouveau/archwood_beam": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
     },
     "done": true
   },
@@ -927,6 +981,12 @@
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_cupboard": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
     },
     "done": true
   },
@@ -1179,6 +1239,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_desk": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
     },
     "done": true
   },
@@ -1506,6 +1572,12 @@
     },
     "done": true
   },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-01-02 03:41:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 03:09:50 +0000"
@@ -1566,9 +1638,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_dining_bench": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-02 03:10:39 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/mcl/ars_nouveau/archwood_tiki_torch": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
     },
     "done": true
   },
@@ -1599,6 +1683,12 @@
   "ars_nouveau:recipes/misc/wipe_starby_shard": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_chair": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
     },
     "done": true
   },
@@ -1860,6 +1950,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcl/ars_nouveau/archwood_ceiling_fan_light": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_fancy_bed": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/source_gem_block": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -1908,6 +2010,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_counter": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/deny_scroll": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -1935,6 +2043,12 @@
   "ars_nouveau:recipes/misc/rotating_spell_turret": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_pillar_trim": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
     },
     "done": true
   },
@@ -1977,6 +2091,12 @@
   "handcrafted:recipes/misc/spruce_couch": {
     "criteria": {
       "has_spruce_couch": "2025-01-02 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_side_table": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
     },
     "done": true
   },
@@ -2094,6 +2214,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_table": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -2145,6 +2271,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 03:09:50 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_cleave": {
+    "criteria": {
+      "customtrigger": "2025-01-02 03:40:45 +0000"
     },
     "done": true
   },
@@ -2295,6 +2427,12 @@
   "ars_nouveau:recipes/building_blocks/stripped_blue_archwood_wood": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_couch": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
     },
     "done": true
   },
@@ -2511,6 +2649,18 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/building_blocks/db/ars_nouveau/archwood_palisade": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/hc/ars_nouveau/archwood_bench": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
     },
     "done": true
   },
@@ -2746,6 +2896,12 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/mcl/ars_nouveau/soul_archwood_tiki_torch": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-02 03:30:28 +0000"
@@ -2815,6 +2971,12 @@
   "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
       "has_spruce_side_table": "2025-01-02 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/ars_nouveau/archwood_cabinet": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:35:17 +0000"
     },
     "done": true
   },
