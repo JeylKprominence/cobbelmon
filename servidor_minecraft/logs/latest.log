@@ -3123,3 +3123,7 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 04:53:02.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Cover Me with Diamonds]
 [02Jan2025 04:59:41.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu was slain by Wendigo
 [02Jan2025 05:00:22.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has reached the goal [Senior Summoner]
+[02Jan2025 05:05:45.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
+[02Jan2025 05:06:02.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
+[02Jan2025 05:09:45.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Jan2025 05:10:00.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Fishy Business]

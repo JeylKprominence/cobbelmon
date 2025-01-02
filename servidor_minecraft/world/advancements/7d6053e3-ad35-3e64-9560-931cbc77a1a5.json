@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-02 04:58:58 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sunrise_2": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -617,6 +623,7 @@
       "minecraft:vindicator": "2025-01-02 04:41:25 +0000",
       "minecraft:spider": "2025-01-02 04:48:37 +0000",
       "minecraft:cave_spider": "2025-01-02 03:30:25 +0000",
+      "minecraft:stray": "2025-01-02 04:56:13 +0000",
       "minecraft:zombie": "2025-01-02 03:29:14 +0000"
     },
     "done": false
@@ -666,6 +673,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-01-02 05:00:22 +0000"
     },
     "done": true
   },
@@ -750,6 +763,12 @@
   "everycomp:recipes/decorations/hc/ars_nouveau/archwood_drawer": {
     "criteria": {
       "has_planks": "2025-01-02 03:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-02 04:58:58 +0000"
     },
     "done": true
   },
@@ -1077,6 +1096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-02 05:05:12 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/ars_nouveau/archwood_corner_trim": {
     "criteria": {
       "has_planks": "2025-01-02 03:35:17 +0000"
@@ -1272,6 +1297,12 @@
   "ars_nouveau:recipes/building_blocks/archwood_fence": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 05:05:12 +0000"
     },
     "done": true
   },
@@ -1539,6 +1570,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-01-02 04:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-01-02 03:03:55 +0000"
@@ -1620,6 +1657,12 @@
   "ars_nouveau:recipes/misc/ghostweave": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/album": {
+    "criteria": {
+      "has_book": "2025-01-02 04:58:58 +0000"
     },
     "done": true
   },
@@ -1827,6 +1870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-02 05:05:12 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -1974,6 +2023,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-02 04:58:58 +0000"
     },
     "done": true
   },
@@ -2394,6 +2449,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-01-02 03:59:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-02 04:58:58 +0000"
     },
     "done": true
   },
@@ -2922,6 +2983,12 @@
   "ars_nouveau:recipes/misc/archwood_sconce": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 05:05:12 +0000"
     },
     "done": true
   },
@@ -3538,6 +3605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-02 05:00:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-02 04:24:49 +0000"
@@ -3553,6 +3626,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-02 05:05:12 +0000"
     },
     "done": true
   },

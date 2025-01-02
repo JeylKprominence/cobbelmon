@@ -12402,3 +12402,41 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 04:58:37.652] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [02Jan2025 04:59:41.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu was slain by Wendigo
 [02Jan2025 05:00:22.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has reached the goal [Senior Summoner]
+[02Jan2025 05:01:03.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 05:01:03.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 05:01:19.337] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[02Jan2025 05:01:48.902] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:irontomb
+[02Jan2025 05:05:35.046] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/dead_end
+[02Jan2025 05:05:35.048] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/bedroom
+[02Jan2025 05:05:35.048] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/small
+[02Jan2025 05:05:35.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/cells
+[02Jan2025 05:05:35.050] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/broken
+[02Jan2025 05:05:35.053] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/quest_tower
+[02Jan2025 05:05:35.054] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/stairs
+[02Jan2025 05:05:35.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/library
+[02Jan2025 05:05:35.056] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/intersections/three_way
+[02Jan2025 05:05:35.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:forgotten_well
+[02Jan2025 05:05:35.124] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:large_oak_tree/top
+[02Jan2025 05:05:35.153] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_main
+[02Jan2025 05:05:37.356] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/dungeon
+[02Jan2025 05:05:38.748] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[02Jan2025 05:05:38.765] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_4
+[02Jan2025 05:05:45.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2216ms or 44 ticks behind
+[02Jan2025 05:05:46.542] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/old_refinery
+[02Jan2025 05:05:55.496] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[02Jan2025 05:05:55.990] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[02Jan2025 05:06:02.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2607ms or 52 ticks behind
+[02Jan2025 05:06:04.477] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of paraglider:tarrey_town_goddess_statue
+[02Jan2025 05:06:07.066] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[02Jan2025 05:06:10.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 05:06:10.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 05:08:56.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:floating_island_1
+[02Jan2025 05:09:00.928] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[02Jan2025 05:09:38.812] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/enchanting
+[02Jan2025 05:09:39.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/rooms/large_hall_down
+[02Jan2025 05:09:39.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/shafts/large
+[02Jan2025 05:09:39.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/walkways/stairs_bars
+[02Jan2025 05:09:39.774] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:underground_temple/intersections/four_way
+[02Jan2025 05:09:45.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Jan2025 05:10:00.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Fishy Business]
+[02Jan2025 05:10:03.165] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_farmer
