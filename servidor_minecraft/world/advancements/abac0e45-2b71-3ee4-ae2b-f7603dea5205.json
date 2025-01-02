@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -101,6 +107,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/gilded_quiver": {
+    "criteria": {
+      "has_ingots_gold": "2025-01-02 03:24:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -110,6 +122,12 @@
   "ars_nouveau:recipes/misc/magelight_torch": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
     },
     "done": true
   },
@@ -149,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-02 03:18:26 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/imbuement_chamber": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -161,9 +185,33 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/slashblade_bamboo": {
+    "criteria": {
+      "has_slashblade_wood": "2025-01-02 03:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
     },
     "done": true
   },
@@ -191,15 +239,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wing_to_leather": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
     },
     "done": true
   },
@@ -269,6 +335,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-02 03:16:48 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/blue_sbed": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -314,6 +386,12 @@
   "ars_nouveau:recipes/misc/sourcestone": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -419,11 +497,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:37 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_button": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:drowned": "2025-01-02 03:18:37 +0000"
+    },
+    "done": false
   },
   "blood_n_particles_rs:blood_n_particle": {
     "criteria": {
@@ -437,9 +527,27 @@
     },
     "done": true
   },
+  "irons_spellbooks:make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-01-02 03:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -473,6 +581,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/decorations/sourcestone_20": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -491,15 +605,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:37 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/annotated_codex": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
     },
     "done": true
   },
+  "slashblade:recipes/combat/orotiagito_sealed": {
+    "criteria": {
+      "has_proudsoul": "2025-01-02 03:15:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 03:16:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
     },
     "done": true
   },
@@ -554,6 +692,12 @@
   "ars_nouveau:recipes/misc/spell_prism": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-01-02 03:18:09 +0000"
     },
     "done": true
   },
@@ -623,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wipe_spell_parchment": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -632,6 +782,12 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/assassin_necklace": {
+    "criteria": {
+      "has_bone": "2025-01-02 03:17:31 +0000"
     },
     "done": true
   },
@@ -713,6 +869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_fence_gate": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -755,6 +917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/lattice": {
     "criteria": {
       "has_stick": "2025-01-02 03:03:11 +0000"
@@ -776,6 +944,12 @@
   "handcrafted:recipes/misc/spruce_pillar_trim": {
     "criteria": {
       "has_spruce_pillar_trim": "2025-01-02 03:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -821,9 +995,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/blank_parchment": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/chain": {
+    "criteria": {
+      "has_ingot": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -881,15 +1067,39 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/bone_quiver": {
+    "criteria": {
+      "has_bone": "2025-01-02 03:17:31 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_awakening": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-01-02 03:18:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "antlers:jerkeyadvance": {
+    "criteria": {
+      "jerkeyadvance": "2025-01-02 03:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-02 03:18:15 +0000"
     },
     "done": true
   },
@@ -935,6 +1145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -944,6 +1160,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-01-02 03:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-02 03:19:29 +0000"
     },
     "done": true
   },
@@ -977,6 +1199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mob_jar": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -986,6 +1214,18 @@
   "paraglider:recipes/misc/paraglider": {
     "criteria": {
       "has_stick": "2025-01-02 03:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -1085,6 +1325,12 @@
     },
     "done": true
   },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-01-02 03:15:48 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -1094,6 +1340,12 @@
   "realmrpg_quests:root": {
     "criteria": {
       "root_0": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/armored_quiver": {
+    "criteria": {
+      "has_ingots_iron": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -1109,6 +1361,12 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/agito": {
+    "criteria": {
+      "has_proudsoul": "2025-01-02 03:15:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/arcane_core": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -1118,6 +1376,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -1154,6 +1418,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/bar_panel": {
+    "criteria": {
+      "has_ingot": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -1235,6 +1505,24 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/make_inscription_table": {
+    "criteria": {
+      "inscription_table": "2025-01-02 03:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sconce": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -1259,9 +1547,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-02 03:18:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-01-02 03:09:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-02 03:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-02 03:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -1313,6 +1625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -1361,6 +1679,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -1373,6 +1697,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "mythsandlegends:gargoyle_root": {
     "criteria": {
       "root": "2025-01-02 03:01:34 +0000"
@@ -1382,6 +1712,24 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-02 03:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2025-01-02 03:20:00 +0000"
     },
     "done": true
   },
@@ -1439,6 +1787,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-01-02 03:21:04 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -1448,6 +1802,12 @@
   "ars_nouveau:recipes/misc/archwood_trapdoor": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
     },
     "done": true
   },
@@ -1469,9 +1829,39 @@
     },
     "done": true
   },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2025-01-02 03:24:42 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/tagayasan": {
+    "criteria": {
+      "has_slashblade_wood": "2025-01-02 03:15:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/lava_lamp": {
+    "criteria": {
+      "has_wood": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -1505,6 +1895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-02 03:21:29 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -1520,6 +1916,12 @@
   "ars_nouveau:recipes/misc/worn_notebook": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/root": {
+    "criteria": {
+      "inscription_table": "2025-01-02 03:22:26 +0000"
     },
     "done": true
   },
@@ -1544,6 +1946,12 @@
   "ars_nouveau:recipes/misc/water_essence_to_obsidian": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -1583,6 +1991,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-02 03:17:31 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/deny_scroll": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -1598,6 +2012,12 @@
   "ars_nouveau:recipes/misc/sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -1625,6 +2045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:37 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-01-02 03:10:30 +0000"
@@ -1643,6 +2069,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-02 03:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-02 03:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-01-02 03:16:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -1658,6 +2108,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:37 +0000"
     },
     "done": true
   },
@@ -1688,6 +2144,12 @@
   "handcrafted:recipes/misc/tropical_fish_trophy": {
     "criteria": {
       "has_tropical_fish_trophy": "2025-01-02 03:05:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 03:16:48 +0000"
     },
     "done": true
   },
@@ -1733,15 +2195,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:37 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
     },
     "done": true
   },
+  "slashblade:recipes/combat/slashblade_white": {
+    "criteria": {
+      "has_slashblade_wood": "2025-01-02 03:15:14 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/iron_stuff": {
+    "criteria": {
+      "has_wood": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -1766,6 +2264,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -1883,6 +2387,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 03:18:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -1967,6 +2477,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-01-02 03:01:34 +0000"
@@ -1979,6 +2495,12 @@
     },
     "done": true
   },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2025-01-02 03:15:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-01-02 03:05:16 +0000"
@@ -1988,6 +2510,12 @@
   "ars_nouveau:recipes/misc/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-02 03:17:31 +0000"
     },
     "done": true
   },
@@ -2105,6 +2633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_challenge": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -2117,6 +2651,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2025-01-02 03:18:37 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -2126,6 +2666,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-02 03:08:48 +0000",
+      "minecraft:frozen_river": "2025-01-02 03:18:02 +0000",
+      "minecraft:river": "2025-01-02 03:16:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-02 03:01:35 +0000"
     },
     "done": false
@@ -2178,6 +2720,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/camera": {
+    "criteria": {
+      "has_iron": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
@@ -2190,9 +2744,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-01-02 03:20:00 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/misc/ritual_wilden_summon": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-02 03:18:15 +0000"
     },
     "done": true
   },
@@ -2262,6 +2828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-02 03:18:11 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2025-01-02 03:05:16 +0000"
@@ -2280,9 +2852,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:37 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-02 03:24:42 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/garden_light": {
+    "criteria": {
+      "has_wood": "2025-01-02 03:18:11 +0000"
     },
     "done": true
   },
@@ -2295,6 +2885,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-01-02 03:09:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-02 03:16:48 +0000"
     },
     "done": true
   },

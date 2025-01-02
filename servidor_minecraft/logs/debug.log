@@ -10510,3 +10510,46 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 03:18:11.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Acquire Hardware]
 [02Jan2025 03:18:15.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Ice Bucket Challenge]
 [02Jan2025 03:18:18.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Not a Diamond]
+[02Jan2025 03:18:33.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Jerky?]
+[02Jan2025 03:18:37.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Monster Hunter]
+[02Jan2025 03:18:44.396] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:priest_house_taiga
+[02Jan2025 03:18:44.403] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:statues/statue_4
+[02Jan2025 03:18:44.480] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[02Jan2025 03:19:06.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Rising Star-         ]
+[02Jan2025 03:19:06.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Aerial Rave A-       ]
+[02Jan2025 03:19:09.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Upper Slash-         ]
+[02Jan2025 03:19:24.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Abilities -Kick Jump-            ]
+[02Jan2025 03:19:41.144] [Worker-Main-6/DEBUG] [ModernFix/]: Structure born_in_chaos_v1:mini_ferma is being run through DFU (hash 0350148f30ba94735785682d784747320ea39a7eafb1bde83add94e83e68a5b5), this will cause launch time delays
+[02Jan2025 03:19:43.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02Jan2025 03:19:44.961] [Worker-Main-6/DEBUG] [ModernFix/]: Structure explorations:campsite/seats_1 is being run through DFU (hash f22fdfc06fdef5698b90332f4aa0e97d6ea91c5bbab91ee58c9fb58129f02104), this will cause launch time delays
+[02Jan2025 03:19:44.967] [Worker-Main-6/DEBUG] [ModernFix/]: Structure explorations:campsite/seats_2 is being run through DFU (hash a21a33b8eb3bcfc351db1ff4ff285081483a152530cab651d4edff3e81581085), this will cause launch time delays
+[02Jan2025 03:19:44.970] [Worker-Main-6/DEBUG] [ModernFix/]: Structure explorations:campsite/tent_1 is being run through DFU (hash d3e82e6ba82eefc5ace14fb38a4ea28e121c72aaf344829d33f89d78c03d5215), this will cause launch time delays
+[02Jan2025 03:19:44.978] [Worker-Main-6/DEBUG] [ModernFix/]: Structure explorations:campsite/hayblocks is being run through DFU (hash a24febd7fbe0dcf275d9909b4e923e7689f490919c00347065ffd4178cb1d1ca), this will cause launch time delays
+[02Jan2025 03:19:44.983] [Worker-Main-6/DEBUG] [ModernFix/]: Structure explorations:campsite/tent_2 is being run through DFU (hash 5416f0ef9c4396afd3a84cd358846e8496a57c00dfdd8f8f215e0fd3fb6f9067), this will cause launch time delays
+[02Jan2025 03:19:44.999] [Worker-Main-6/DEBUG] [ModernFix/]: Structure explorations:campsite/animal_pen is being run through DFU (hash ebb8ecf927027daad8157a80bdc5f468f771ebc721b0b89ff43184061bfc1e21), this will cause launch time delays
+[02Jan2025 03:19:45.756] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of realmrpg_quests:custom_mobs/villager_butcher
+[02Jan2025 03:19:45.756] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 03:19:45.758] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 03:19:45.758] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 03:19:45.759] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Jan2025 03:19:45.760] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Jan2025 03:19:45.761] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Jan2025 03:19:45.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 03:19:45.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 03:19:55.347] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mountain_tower
+[02Jan2025 03:20:00.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Proud Soul]
+[02Jan2025 03:20:01.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Aerial Rave B-       ]
+[02Jan2025 03:20:44.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK was killed by Apothecarist using magic
+[02Jan2025 03:21:04.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Tools of the Trade]
+[02Jan2025 03:22:26.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has reached the goal [Quaint Scribe]
+[02Jan2025 03:22:50.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JeylK> 446 72 4.8
+[02Jan2025 03:23:43.944] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[02Jan2025 03:23:51.655] [Worker-Main-6/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[02Jan2025 03:24:13.859] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:ruins/desert_5
+[02Jan2025 03:24:19.333] [Worker-Main-20/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[02Jan2025 03:24:29.774] [Worker-Main-20/DEBUG] [ModernFix/]: Structure undead_revamp2:cloggerplacetrue is being run through DFU (hash 69d52c18edcbd15a63e2015201f409268c15e2813ab4e45423b838b485983020), this will cause launch time delays
+[02Jan2025 03:24:46.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 03:24:46.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 03:25:10.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Diamonds!]
+[02Jan2025 03:27:55.964] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of explorations:shrine
+[02Jan2025 03:28:14.364] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot

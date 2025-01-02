@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-01-02 03:16:02 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_large_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -437,6 +443,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-02 03:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:07 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_button": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -512,6 +530,12 @@
   "ars_nouveau:recipes/decorations/sourcestone_21": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:07 +0000"
     },
     "done": true
   },
@@ -731,6 +755,12 @@
     },
     "done": true
   },
+  "slashblade:arts/upperslash": {
+    "criteria": {
+      "customtrigger": "2025-01-02 03:19:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-01-02 03:05:13 +0000"
@@ -929,6 +959,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-01-02 03:16:02 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -1019,6 +1055,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-01-02 03:15:52 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mob_jar": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -1028,6 +1070,12 @@
   "paraglider:recipes/misc/paraglider": {
     "criteria": {
       "has_stick": "2025-01-02 03:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:07 +0000"
     },
     "done": true
   },
@@ -1130,6 +1178,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_vexing_sapling": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-01-02 03:19:24 +0000"
     },
     "done": true
   },
@@ -1301,6 +1355,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 03:09:50 +0000"
@@ -1328,6 +1388,12 @@
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2025-01-02 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 03:15:31 +0000"
     },
     "done": true
   },
@@ -1769,6 +1835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:07 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-01-02 03:09:34 +0000"
@@ -1793,6 +1865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:07 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-01-02 03:09:34 +0000"
@@ -1805,15 +1883,39 @@
     },
     "done": true
   },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-01-02 03:20:01 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-01-02 03:19:06 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-02 03:01:53 +0000"
     },
     "done": true
   },
+  "slashblade:arts/rising_star": {
+    "criteria": {
+      "customtrigger": "2025-01-02 03:19:06 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:07 +0000"
     },
     "done": true
   },
@@ -1889,6 +1991,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-01-02 03:15:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 03:09:50 +0000"
@@ -1898,6 +2006,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-01-02 03:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:07 +0000"
     },
     "done": true
   },
@@ -2207,6 +2321,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-01-02 03:15:52 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/allow_scroll": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -2252,6 +2372,12 @@
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-01-02 03:15:31 +0000"
     },
     "done": true
   },
@@ -2312,6 +2438,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-02 03:08:17 +0000",
+      "minecraft:frozen_river": "2025-01-02 03:18:40 +0000",
+      "minecraft:river": "2025-01-02 03:18:42 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-02 03:01:54 +0000"
     },
     "done": false
@@ -2424,6 +2552,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-01-02 03:15:52 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-01-02 03:01:53 +0000"
@@ -2475,6 +2609,12 @@
   "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
       "has_spruce_side_table": "2025-01-02 03:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-02 03:17:07 +0000"
     },
     "done": true
   },

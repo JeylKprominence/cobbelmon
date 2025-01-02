@@ -2895,3 +2895,23 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 03:18:11.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Acquire Hardware]
 [02Jan2025 03:18:15.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Ice Bucket Challenge]
 [02Jan2025 03:18:18.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Not a Diamond]
+[02Jan2025 03:18:33.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Jerky?]
+[02Jan2025 03:18:37.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Monster Hunter]
+[02Jan2025 03:19:06.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Rising Star-         ]
+[02Jan2025 03:19:06.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Aerial Rave A-       ]
+[02Jan2025 03:19:09.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Upper Slash-         ]
+[02Jan2025 03:19:24.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Abilities -Kick Jump-            ]
+[02Jan2025 03:19:43.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[02Jan2025 03:19:45.756] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 03:19:45.758] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 03:19:45.758] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[02Jan2025 03:19:45.759] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Jan2025 03:19:45.760] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Jan2025 03:19:45.761] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[02Jan2025 03:20:00.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Proud Soul]
+[02Jan2025 03:20:01.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Aerial Rave B-       ]
+[02Jan2025 03:20:44.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK was killed by Apothecarist using magic
+[02Jan2025 03:21:04.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Tools of the Trade]
+[02Jan2025 03:22:26.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has reached the goal [Quaint Scribe]
+[02Jan2025 03:22:50.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JeylK> 446 72 4.8
+[02Jan2025 03:25:10.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Diamonds!]
