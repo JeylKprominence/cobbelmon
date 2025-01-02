@@ -2663,3 +2663,235 @@ java.lang.NullPointerException: Element not found: amount
 [02Jan2025 03:05:38.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
 [02Jan2025 03:06:01.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
 [02Jan2025 03:06:20.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2100ms or 42 ticks behind
+[02Jan2025 03:06:36.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made JeylK a server operator
+[02Jan2025 03:06:40.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5461ms or 109 ticks behind
+[02Jan2025 03:06:46.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JeylK: Gamerule keepInventory is now set to: true]
+[02Jan2025 03:07:07.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11658ms or 233 ticks behind
+[02Jan2025 03:07:43.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21044ms or 420 ticks behind
+[02Jan2025 03:08:19.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21344ms or 426 ticks behind
+[02Jan2025 03:08:48.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JeylK: Teleported Brandauwu to JeylK]
+[02Jan2025 03:08:48.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13423ms or 268 ticks behind
+[02Jan2025 03:09:05.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[02Jan2025 03:09:23.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
+[02Jan2025 03:09:34.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [I Found It Underground]
+[02Jan2025 03:09:34.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Apothic Affixes]
+[02Jan2025 03:09:50.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Acquire Hardware]
+[02Jan2025 03:10:03.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Sweet Dreams]
+[02Jan2025 03:10:17.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JeylK: Gamerule playersSleepingPercentage is now set to: 1]
+[02Jan2025 03:10:24.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has reached the goal [Worthy Equipment]
+[02Jan2025 03:10:30.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has reached the goal [Worthy Equipment]
+[02Jan2025 03:10:30.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Apothic Affixes]
+[02Jan2025 03:10:37.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Suit Up]
+[02Jan2025 03:10:39.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Isn't It Iron Pick]
+[02Jan2025 03:10:47.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Suit Up]
+[02Jan2025 03:11:05.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Tiny Proud Soul]
+[02Jan2025 03:11:05.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Slash Blade]
+[02Jan2025 03:11:18.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Proud Soul]
+[02Jan2025 03:11:35.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu was slain by JeylK
+[02Jan2025 03:11:40.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK was slain by Wendigo
+[02Jan2025 03:12:38.766] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:38.774] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=965, z=1073200}"
+}
+[02Jan2025 03:12:38.776] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 17 extra bytes: 
+[02Jan2025 03:12:38.778] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[38, 36, -12, 30, 88, -34, -113, 104, 80, 30, 108, 79, -107, -7, 21, -26, -31]"
+]
+[02Jan2025 03:12:38.778] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSelectTradePacket  id 38 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:38.781] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134459_": 36
+}
+[02Jan2025 03:12:38.782] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 38 data of 61 extra bytes: 
+[02Jan2025 03:12:38.783] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "XhPlO&C)E:w >{WZ#~/Qb`rk{3"
+]
+[02Jan2025 03:12:38.785] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSetCommandBlockPacket  id 41 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:38.791] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134501_": "BlockPos{x=18148082, y=737, z=5732799}",
+  "f_134502_": ">��{�WZ#~/Qb`���rk�\u001e�{̊���3�",
+  "f_134503_": false,
+  "f_134504_": false,
+  "f_134505_": false,
+  "f_134506_": "SEQUENCE"
+}
+[02Jan2025 03:12:38.792] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 41 data of 66 extra bytes: 
+[02Jan2025 03:12:38.793] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+/,0/524.ip.gl.ply.gg"
+]
+[02Jan2025 03:12:38.794] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:38.795] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 28
+}
+[02Jan2025 03:12:38.795] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 84 extra bytes: 
+[02Jan2025 03:12:38.796] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/524.ip.gl.ply.gg"
+]
+[02Jan2025 03:12:38.797] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:38.798] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 53
+}
+[02Jan2025 03:12:38.798] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 83 extra bytes: 
+[02Jan2025 03:12:38.799] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-64, 18, 0, 10, 19, 1, 19, 2, 19, 3, 0, 0, 0, 20, 0, 18, 0, 0, 15, 50, 52, 46, 105, 112, 46, 103, 108, 46, 112, 108, 121, 46, 103, 103, 0, 5, 1, 0, 0, 0, 10, 0, 8, 0, 29, 0, 23, 0, 24, 0, 11, 0, 2, 1, 0, 0, 13, 0, 26, 0, 24, 8, 4, 4, 3, 8, 7, 8, 5, 8, 6, 4, 1, 5, 6, 5, 6, 3, 2, 2, -1, 1, 0]"
+]
+[02Jan2025 03:12:38.801] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:38.802] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10
+}
+[02Jan2025 03:12:38.803] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 80 extra bytes: 
+[02Jan2025 03:12:38.804] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[19, 1, 19, 2, 19, 3, 0, 0, 0, 20, 0, 18, 0, 0, 15, 50, 52, 46, 105, 112, 46, 103, 108, 46, 112, 108, 121, 46, 103, 103, 0, 5, 1, 0, 0, 0, 10, 0, 8, 0, 29, 0, 23, 0, 24, 0, 11, 0, 2, 1, 0, 0, 13, 0, 26, 0, 24, 8, 4, 4, 3, 8, 7, 8, 5, 8, 6, 4, 1, 5, 6, 5, 6, 3, 2, 2, -1, 1, 0, 0]"
+]
+[02Jan2025 03:12:38.804] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundLockDifficultyPacket  id 19 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:38.805] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134105_": true
+}
+[02Jan2025 03:12:38.806] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 19 data of 101 extra bytes: 
+[02Jan2025 03:12:38.809] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "24.ip.gl.ply.gg+3&"
+]
+[02Jan2025 03:12:38.810] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundLockDifficultyPacket  id 19 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:38.811] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134105_": true
+}
+[02Jan2025 03:12:38.812] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 19 data of 99 extra bytes: 
+[02Jan2025 03:12:38.813] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "24.ip.gl.ply.gg+3&"
+]
+[02Jan2025 03:12:38.813] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundLockDifficultyPacket  id 19 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:38.822] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134105_": true
+}
+[02Jan2025 03:12:38.823] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 19 data of 133 extra bytes: 
+[02Jan2025 03:12:38.823] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "24.ip.gl.ply.gg+3& 6seP}rU7%"
+]
+[02Jan2025 03:12:38.824] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:38.825] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 0
+}
+[02Jan2025 03:12:38.826] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 131 extra bytes: 
+[02Jan2025 03:12:38.826] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "24.ip.gl.ply.gg+3& 6seP}rU7%"
+]
+[02Jan2025 03:12:40.549] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:40.553] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=915, z=1073200}"
+}
+[02Jan2025 03:12:40.559] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 44 extra bytes: 
+[02Jan2025 03:12:40.559] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">li/I*sRpx~_ #(<2U"
+]
+[02Jan2025 03:12:42.589] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:42.591] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=800, z=1073200}"
+}
+[02Jan2025 03:12:42.594] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 119 extra bytes: 
+[02Jan2025 03:12:42.595] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "\"-[dLJY<05TB(K M $mgSo~c~i&+/,0/524."
+]
+[02Jan2025 03:12:42.595] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:42.600] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 34,
+  "f_133799_": "BlockPos{x=-24594650, y=1929, z=24491585}"
+}
+[02Jan2025 03:12:42.601] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 214 extra bytes: 
+[02Jan2025 03:12:42.602] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "LJY<05TB(K M $mgSo~c~i&+/,0/524.p.gl.ply.gg+3&$"
+]
+[02Jan2025 03:12:43.856] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:43.858] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=885, z=1073200}"
+}
+[02Jan2025 03:12:43.863] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 27 extra bytes: 
+[02Jan2025 03:12:43.863] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "q,l4}F7)(um|F"
+]
+[02Jan2025 03:12:43.864] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundContainerClosePacket  id 12 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:43.864] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133967_": 65
+}
+[02Jan2025 03:12:43.865] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 12 data of 102 extra bytes: 
+[02Jan2025 03:12:43.865] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "KNf#wc3G-r@tqF+/,0/524.ip.gl.ply.gg"
+]
+[02Jan2025 03:12:43.865] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:12:43.866] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 71
+}
+[02Jan2025 03:12:43.866] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 118 extra bytes: 
+[02Jan2025 03:12:43.866] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-r@tqF+/,0/524.ip.gl.ply.gg"
+]
+[02Jan2025 03:13:06.237] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[02Jan2025 03:13:06.240] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=927, z=1122352}"
+}
+[02Jan2025 03:13:06.244] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[02Jan2025 03:13:06.246] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[105, -84, -80, -41, 103, -10, 15, -6, 82, 76, -29]"
+]
+[02Jan2025 03:13:12.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Anonymity -Wood-]
+[02Jan2025 03:13:17.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Rapid Slash-         ]
+[02Jan2025 03:13:19.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Combo A-              ]
+[02Jan2025 03:13:31.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Blade Arts -Combo B-              ]
+[02Jan2025 03:13:50.755] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1718, l='ServerLevel[world]', x=268.01, y=87.00, z=38.51] died, message: 'Unemployed was slain by Royal Zombie'
+[02Jan2025 03:14:45.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Sweet Dreams]
+[02Jan2025 03:15:14.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Anonymity -Wood-]
+[02Jan2025 03:15:48.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Abilities -Kick Jump-            ]
+[02Jan2025 03:16:02.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has reached the goal [Flawless Crystals]
+[02Jan2025 03:16:02.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JeylK has made the advancement [Not a Diamond]
+[02Jan2025 03:16:11.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [I Found It Underground]
+[02Jan2025 03:16:42.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[02Jan2025 03:17:47.510] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 03:17:47.511] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 03:17:51.351] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[02Jan2025 03:17:51.353] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 03:17:51.353] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[02Jan2025 03:17:51.355] [Worker-Main-6/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[02Jan2025 03:18:11.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Acquire Hardware]
+[02Jan2025 03:18:15.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Ice Bucket Challenge]
+[02Jan2025 03:18:18.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Brandauwu has made the advancement [Not a Diamond]
